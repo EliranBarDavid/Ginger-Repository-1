@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-
-=======
 Hellow World! World Hello
->>>>>>> 4db301e88a09b67be96f4e5bc8d47e6e7a591a71
 New Line for Pulling
-asd
